@@ -3,7 +3,7 @@ min = 1
 max = 6
 a=b=c=0
 roll_again = "yes"
-while roll_again == "yes" or roll_again == "y":
+while roll_again == "yes":
     print("Rolling the dices...")
     print("The values are....")
     a = random.randint(min, max)
