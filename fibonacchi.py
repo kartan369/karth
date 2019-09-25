@@ -6,6 +6,6 @@ def f(i):
 
 i = int(input("Enter the number:"))
 
-print("Fibonacci sequence for :")
+print("Fibonacci sequence is :")
 for n in range(i):
     print(f(n))
