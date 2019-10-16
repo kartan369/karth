@@ -10,6 +10,6 @@ a = input("Enter the word   ")
 s = str(a)
 ans = isPalindrome(s)
 if ans == 1:
-    print(a ,"This is a palindrome")
+    print(a ,"is a palindrome")
 else:
-    print(a ,"This is not a palindrome")
+    print(a ,"is not a palindrome")
